@@ -11,9 +11,15 @@
 	
 >xThunder
 >>json.hpp
+
 >>main.cpp
+
 >>xThunder.h
+
 >>xThunder.cpp
+
 >>IDManTypeInfo.h
+
 >>IDManTypeInfo.tlb
+
 >>IDManTypeInfo_i.h
