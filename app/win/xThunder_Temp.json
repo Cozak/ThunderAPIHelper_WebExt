@@ -1,0 +1,7 @@
+{
+  "name": "xThunder",
+  "description": "Build Thunder Tasks via COM",
+  "path": "__PATH__xThunder_win.bat",
+  "type": "stdio",
+  "allowed_extensions": [ "ThunderAPIHelper@example.org" ]
+}
