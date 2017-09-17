@@ -11,7 +11,8 @@
   1）安装ThunderAPIHelper扩展（add-on文件夹），具体步骤参见[MDN]( "Markdown")    
   
   2）安装附带的Native App（app文件夹），将app文件夹下载至一个稳定的目录（扩展的正常工作依赖NativeApp），
-     然后根据系统类型选择
+  
+    然后根据系统类型选择
     
 >Windows（目前仅支持该系统）
 >>运行install.bat即可完成安装（uninstall.bat则用于卸载）
