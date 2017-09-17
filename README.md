@@ -10,6 +10,7 @@
     
   1）安装ThunderAPIHelper扩展（add-on文件夹），具体步骤参见[MDN](https://developer.mozilla.org/zh-CN/Add-ons/WebExtensions/Temporary_Installation_in_Firefox "Markdown")（未发布的扩展只能采用临时安装）
   
+  
   2）安装附带的Native App（app文件夹），将app文件夹下载至一个稳定的目录（扩展的正常工作依赖NativeApp），  
      然后根据系统类型选择：
     
