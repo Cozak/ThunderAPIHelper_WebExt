@@ -16,3 +16,7 @@
     
 >Windows（目前仅支持该系统）
 >>运行install.bat即可完成安装（uninstall.bat则用于卸载）
+  
+  
+  
+  PS：如果是直接下载ZIP包，那么对于Windows用户会存在bat文件命令文本解析不正常的问题，需要将bat文件的回车缩进风格从Unix(LF)改为Windows(CRLF)，具体操作请参照[这里](http://www.cuixinjiang.cn/wzzhizuo/784.html)
