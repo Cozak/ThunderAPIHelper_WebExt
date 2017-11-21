@@ -12,7 +12,7 @@
     
   1）安装ThunderAPIHelper扩展（add-on文件夹），有两种选择:
   
->对于Firefox正式版，采用临时安装，具体步骤参见[MDN](https://developer.mozilla.org/zh-CN/Add-ons/WebExtensions/Temporary_Installation_in_Firefox "Markdown")（未发布的扩展只能采用临时安装，借助about:debugging）
+>对于Firefox正式版（含ESR版），采用临时安装，具体步骤参见[MDN](https://developer.mozilla.org/zh-CN/Add-ons/WebExtensions/Temporary_Installation_in_Firefox "Markdown")（未发布的扩展只能采用临时安装，借助about:debugging）
 
 >对于Firefox开发版（Developer Edition），采用未验证安装
 >>在about:config下设置xpinstall.signatures.required = false
