@@ -28,3 +28,6 @@
   
   
   PS：如果是直接下载ZIP包，那么对于Windows用户会存在bat文件命令文本解析不正常的问题，需要将bat文件的回车缩进风格从Unix(LF)改为Windows(CRLF)，具体操作请参照[这里](http://www.cuixinjiang.cn/wzzhizuo/784.html)
+  
+  
+  PS：推荐使用Firefox DE版，可以享受Firefox最新特性，当前最新版本（57+）的流畅感不输Chrome
